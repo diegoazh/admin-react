@@ -1,0 +1,8 @@
+{
+  "translation": {
+    "apiErrors": {
+      "emptyClient": "The Keycloak client was not built",
+      "emptyResource": "The baseUri and resource can not be empty, please set it. (baseUri: {{baseUri}}, resource: {{resource}})"
+    }
+  }
+}
