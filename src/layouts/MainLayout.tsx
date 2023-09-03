@@ -76,7 +76,7 @@ export function MainLayout() {
           </Tooltip>
         </div>
       </div>
-      <div className="flex w-screen h-screen">
+      <div className="flex w-screen h-screen p-4">
         <Outlet />
       </div>
     </div>

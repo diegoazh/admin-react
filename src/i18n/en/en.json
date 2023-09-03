@@ -3,6 +3,14 @@
     "apiErrors": {
       "emptyClient": "The Keycloak client was not built",
       "emptyResource": "The baseUri and resource can not be empty, please set it. (baseUri: {{baseUri}}, resource: {{resource}})"
+    },
+    "users": {
+      "title": "Users list",
+      "enabled": "Enabled",
+      "disabled": "Disabled",
+      "verified": "Verified",
+      "notVerified": "Not verified",
+      "noActions": "No actions"
     }
   }
 }
